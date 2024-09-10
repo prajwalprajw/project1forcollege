@@ -3,9 +3,4 @@ aaa
 =======
 aaa
 bbbbbbbbbbb
-   
-   ggg
-    ggggggggg
-	 fffff
-	 vvf
->>>>>>> feature-branch
+
